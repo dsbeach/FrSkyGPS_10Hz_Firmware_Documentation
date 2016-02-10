@@ -1,24 +1,8 @@
 {
-	"plugins": ["image-captions", "autocover"],
+	"plugins": ["image-captions"],
 	"pluginsConfig": {
 		"image-captions": {
 			"caption": "_CAPTION_"
-		},
-		"autocover": {
-			"title": "FrSkyGPS 10Hz Firmware",
-			"author": "David S. Beach",
-			"font": {
-				"size": null,
-				"family": "Roboto",
-				"color": "#90611D"
-			},
-			"size": {
-				"w": 1800,
-				"h": 2360
-			},
-			"background": {
-				"color": "#FEEFDA"
-			}
 		}
 	}
 }
